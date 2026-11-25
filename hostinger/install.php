@@ -17,7 +17,7 @@ function erro_banco(PDOException $e,array $c): string {
     default=>'O banco respondeu com erro (código '.$n.'). Confira nome do banco, usuário e senha em hPanel → Bancos de dados.'.$pre,
   };
 }
-$msg=''; $ok=false; $reconecta=false;
+$msg=''; $ok=false; $reconecta=false; $novaSenha=false; $dono=null;
 if (!$feito&&$_SERVER['REQUEST_METHOD']==='POST') {
   $c=['host'=>trim($_POST['host']??'localhost'),'name'=>trim($_POST['db']??''),'user'=>trim($_POST['dbuser']??''),'pass'=>(string)($_POST['dbpass']??'')];
   $un=strtolower(trim($_POST['u']??'')); $nm=trim($_POST['nome']??''); $pw=(string)($_POST['p']??'');
@@ -27,8 +27,13 @@ if (!$feito&&$_SERVER['REQUEST_METHOD']==='POST') {
     foreach (array_filter(array_map('trim',explode(';',file_get_contents(__DIR__.'/schema.sql')))) as $sql) $pdo->exec($sql);
     $reconecta=(bool)$pdo->query('SELECT 1 FROM users LIMIT 1')->fetch();
     if ($reconecta) {
-      $d=$pdo->prepare('SELECT pass_hash FROM users WHERE username=? AND is_owner=1'); $d->execute([$un]); $d=$d->fetch(PDO::FETCH_ASSOC);
-      if (!$d||!password_verify($pw,$d['pass_hash'])) { usleep(800000); throw new Exception('Esse banco já tem a Central instalada, com os seus dados. Para reconectar, use o usuário e a senha de administradora que você criou na primeira instalação.'); }
+      $dono=$pdo->query('SELECT id,username,pass_hash FROM users WHERE is_owner=1 ORDER BY created_at LIMIT 1')->fetch(PDO::FETCH_ASSOC);
+      if (!$dono) throw new Exception('Esse banco tem dados da Central, mas nenhuma conta de dona. Fale com o suporte técnico.');
+      if (!($un===$dono['username']&&password_verify($pw,$dono['pass_hash']))) {
+        if ($m=senha_ok($pw)) throw new Exception('Não reconheci a senha antiga, então vou criar uma nova. '.$m);
+        if ($pw!==($_POST['p2']??'')) throw new Exception('Não reconheci a senha antiga, então vou criar uma nova: as duas senhas precisam ser iguais.');
+        $novaSenha=true;
+      }
     } else {
       if ($nm==='') throw new Exception('Informe seu nome.');
       if ($m=senha_ok($pw)) throw new Exception($m);
@@ -36,6 +41,7 @@ if (!$feito&&$_SERVER['REQUEST_METHOD']==='POST') {
     }
     $dest=@is_writable(dirname(__DIR__))?cfg_fora():__DIR__.'/config.php';
     if (!@is_writable(dirname($dest))) throw new Exception('A pasta do site não aceita gravação, então não consigo salvar a configuração. No Gerenciador de arquivos, deixe a pasta com permissão 755.');
+    if (!empty($novaSenha)) $pdo->prepare('UPDATE users SET pass_hash=?,must_change=0,temp_expires=NULL,active=1,pendente=0,sess_ver=sess_ver+1 WHERE id=?')->execute([hashpw($pw),$dono['id']]);
     if (!$reconecta) {
       $id=rid();
       $pdo->prepare('INSERT INTO users (id,username,name,pass_hash,is_owner,active,created_at) VALUES (?,?,?,?,1,1,UTC_TIMESTAMP())')->execute([$id,$un,$nm,hashpw($pw)]);
@@ -53,7 +59,7 @@ if (!$feito&&$_SERVER['REQUEST_METHOD']==='POST') {
 $e=fn($s)=>htmlspecialchars((string)$s,ENT_QUOTES);
 ?><!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Instalar a Central</title>
 <style>body{margin:0;font:16px/1.5 system-ui,sans-serif;background:linear-gradient(#bfe1ff,#e9f5ff);color:#1b1033}.w{max-width:520px;margin:6vh auto;padding:0 16px}.b{background:#fff;border:2px solid #1b1033;border-radius:16px;box-shadow:6px 6px 0 #ff4fb3;overflow:hidden}.t{background:linear-gradient(#6aa3ff,#2f6bff);color:#fff;padding:10px 16px;font-weight:800;border-bottom:2px solid #1b1033}form,.c{padding:16px}label{display:block;margin-bottom:12px;font-weight:700;font-size:14px}input{width:100%;box-sizing:border-box;min-height:44px;padding:8px 12px;border:2px solid #1b1033;border-radius:10px;font-size:16px;margin-top:4px}button,a.bt{display:inline-block;width:100%;min-height:46px;border:2px solid #1b1033;border-radius:12px;background:#ff4fb3;color:#fff;font-weight:800;font-size:16px;box-shadow:3px 3px 0 #1b1033;cursor:pointer;text-align:center;line-height:42px;text-decoration:none}h2{font-size:16px;margin:16px 0 8px}.e{background:#ffe0e5;color:#a1112c;border:2px solid #a1112c;border-radius:10px;padding:8px 12px;margin-bottom:12px;font-weight:700}small{color:#5d5080;font-weight:400}.n{background:#fff6c9;border:2px solid #1b1033;border-radius:10px;padding:8px 12px;font-size:14px;margin:0 0 12px}</style></head><body><div class="w"><div class="b">
-<?php if ($ok): ?><div class="t">Instalado!</div><div class="c"><p><?=$reconecta?'Pronto, a Central foi reconectada ao banco. Todos os seus dados continuam lá.':'Pronto, o banco foi criado e sua conta de administradora também.'?></p><p>Por segurança, o instalador se desativou sozinho.</p><a class="bt" href="./">Abrir a Central</a></div>
+<?php if ($ok): ?><div class="t">Instalado!</div><div class="c"><p><?=$reconecta?'Pronto, a Central foi reconectada ao banco. Todos os seus dados continuam lá.':'Pronto, o banco foi criado e sua conta de administradora também.'?></p><?php if ($novaSenha): ?><p class="n">Para entrar, use o usuário <b><?=$e($dono['username'])?></b> e a <b>senha nova</b> que você acabou de digitar.</p><?php endif ?><p>Por segurança, o instalador se desativou sozinho.</p><a class="bt" href="./">Abrir a Central</a></div>
 <?php elseif ($feito): ?><div class="t">Já instalado</div><div class="c"><p>O sistema já está instalado. Por segurança, este instalador não roda de novo.</p><a class="bt" href="./">Abrir a Central</a></div>
 <?php else: ?><div class="t">Instalar a Central da Fábrica</div><form method="post" autocomplete="off">
 <?php if ($msg): ?><div class="e"><?=$e($msg)?></div><?php endif ?>
@@ -62,7 +68,7 @@ $e=fn($s)=>htmlspecialchars((string)$s,ENT_QUOTES);
 <label>Nome do banco<input name="db" required value="<?=$e($_POST['db']??'')?>" placeholder="u123456789_central"></label>
 <label>Usuário do banco<input name="dbuser" required value="<?=$e($_POST['dbuser']??'')?>" placeholder="u123456789_duda"></label>
 <label>Senha do banco<input name="dbpass" type="password" required></label>
-<h2>2. Sua conta de administradora</h2><p class="n">Já tinha instalado antes e o site pediu para instalar de novo? Use os mesmos dados do banco e o <b>mesmo usuário e senha de administradora</b>. Nada é apagado: a Central só se reconecta aos seus dados.</p>
+<h2>2. Sua conta de administradora</h2><p class="n">Já tinha instalado antes e o site pediu para instalar de novo? Use os mesmos dados do banco e o seu usuário e senha de administradora. <b>Esqueceu a senha?</b> Digite uma senha nova (duas vezes) que ela passa a valer. Nada é apagado: a Central só se reconecta aos seus dados.</p>
 <label>Seu nome<input name="nome" required value="<?=$e($_POST['nome']??'')?>"></label>
 <label>Usuário <small>(para entrar no sistema)</small><input name="u" required autocapitalize="none" value="<?=$e($_POST['u']??'')?>"></label>
 <label>Senha <small>(10+ caracteres, letras e números)</small><input name="p" type="password" required autocomplete="new-password"></label>
