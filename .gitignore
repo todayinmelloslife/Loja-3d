@@ -1,0 +1,8 @@
+hostinger/config.php
+hostinger/uploads/*
+!hostinger/uploads/.htaccess
+hostinger/install.php.usado
+testes/t.html
+__pycache__/
+*.pyc
+.DS_Store

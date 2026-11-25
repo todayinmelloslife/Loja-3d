@@ -1,0 +1,36 @@
+name: Publicar ramo deploy (Hostinger)
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Gerar app.html e app.js a partir de app/index.html
+        run: python3 build_hosted.py app/index.html hostinger
+      - name: Conferir que nenhum segredo vai junto
+        run: |
+          test ! -f hostinger/config.php
+          ! grep -rIl "pixel2026" hostinger/
+      - name: Publicar só a pasta hostinger/ no ramo deploy
+        run: |
+          git config user.name "deploy-bot"
+          git config user.email "deploy-bot@users.noreply.github.com"
+          rm -rf /tmp/deploy && cp -r hostinger /tmp/deploy && rm -f /tmp/deploy/LEIAME.md /tmp/deploy/SEGURANCA.md
+          git fetch origin deploy || true
+          if git show-ref --verify --quiet refs/remotes/origin/deploy; then git checkout -B deploy origin/deploy; else git checkout --orphan deploy; fi
+          git rm -rfq . || true
+          git clean -fdq
+          cp -r /tmp/deploy/. .
+          git add -A
+          git diff --cached --quiet || git commit -qm "deploy: ${GITHUB_SHA::7}"
+          git push origin deploy
