@@ -37,5 +37,16 @@ Repositório: **https://github.com/todayinmelloslife/Loja-3d**
 
 O instalador cria o `config.php` no servidor. Esse arquivo **não** está no Git (e nem pode estar), e as próximas implantações não mexem nele nem na pasta `uploads/`.
 
+## Atualização automática (recomendado)
+1. hPanel → **Avançado → Git** → no repositório da lista, clique em **Implantação automática** (Auto Deployment) e copie a **URL do webhook**.
+2. GitHub → Loja-3d → **Settings → Webhooks → Add webhook**:
+   - Payload URL: a URL copiada
+   - Content type: `application/json`
+   - Evento: **Just the push event**
+   - **Add webhook**
+3. Pronto: toda mudança que entra no `main` vai para o site sozinha em 1 ou 2 minutos.
+
+A configuração (`central-config.php`) e as fotos (`central-uploads/`) ficam **fora** da pasta do site, então implantar ou reimplantar não apaga mais nada. Se algum dia aparecer "sistema não instalado", abra `install.php` e use os mesmos dados do banco e o mesmo usuário/senha de administradora: ele só reconecta.
+
 ## Atualizar depois
 Mudou algo no `app/index.html` (ou no PHP)? Envie para o `main` → a automação monta o `deploy` → na Hostinger clique em **Implantar** (ou deixe automático).

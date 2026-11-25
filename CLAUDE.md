@@ -15,7 +15,7 @@ Código compacto, limpo, sem comentários desnecessários.
   - `SEGURANCA.md` — relatório de segurança (falhas, correções, riscos que continuam).
   - `shim.js` — implementa a mesma interface `claude.use(...)` falando com `api.php` (sync por polling a cada 2,5 s, cache local, listeners).
   - `api.php` + `lib.php` — login (bcrypt, sessão, CSRF, limite de tentativas), store de documentos JSON (`docs`), regras de leitura/escrita, permissões por papel no servidor, travas (`locks`), uploads privados.
-  - `install.php` + `schema.sql` — instalador que cria tabelas, `config.php` e a conta dona; depois de instalado (existe `config.php`) ele se recusa a rodar. Não se renomeia, para não quebrar o `git pull` da Hostinger.
+  - `install.php` + `schema.sql` — instalador que cria tabelas e a conta dona. Grava a configuração em `../central-config.php` (fora da pasta do site, porque o "Reimplantar" da Hostinger apaga a pasta); fotos ficam em `../central-uploads/`. Se a configuração sumir, rodar o instalador com o usuário/senha da dona **reconecta** sem apagar nada. Instalado, ele se recusa a rodar.
   - `.htaccess` — HTTPS, rewrite `_blob/<id>` → `api.php?a=file`, bloqueio de arquivos internos, cabeçalhos/CSP.
 - `build_hosted.py` — tira os scripts embutidos para `app.js`, injeta `shim.js` e troca `/_blob/` por `_blob/`. Uso: `python3 build_hosted.py app/index.html hostinger`.
 - `testes/` — `mock.js` + `gerar_mock.py` (banco falso em memória → `testes/t.html`), Playwright `run4/5/7.py` (modo artifact), `e2e2.py`/`e2e3.py` (navegador contra o PHP real), `sec_test.py` (76 ataques), `router.php` (emula o .htaccess no `php -S`). Rode tudo da raiz do repositório.
