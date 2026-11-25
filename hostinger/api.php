@@ -4,7 +4,7 @@ if (PHP_VERSION_ID<80100) { http_response_code(500); header('Content-Type: appli
 require __DIR__.'/lib.php';
 cabecalhos();
 header('Cache-Control: no-store');
-if (!is_file(__DIR__.'/config.php')) erro('sistema não instalado — abra install.php',503);
+if (!cfg_arq()) erro('sistema não instalado — abra install.php',503);
 if ($_SERVER['REQUEST_METHOD']==='OPTIONS') erro('método não permitido',405);
 if ((int)($_SERVER['CONTENT_LENGTH']??0)>16*1024*1024) erro('envio grande demais',413);
 header("Content-Security-Policy: default-src 'none'; frame-ancestors 'none'");
@@ -200,7 +200,7 @@ case 'upload':
   $mime=(new finfo(FILEINFO_MIME_TYPE))->file($f['tmp_name']);
   $ext=['image/jpeg'=>'jpg','image/png'=>'png','image/webp'=>'webp','image/gif'=>'gif','application/pdf'=>'pdf'][$mime]??null;
   if (!$ext) erro('tipo de arquivo não permitido (use JPG, PNG, WEBP, GIF ou PDF)');
-  $id=rid(24).'.'.$ext; $dir=__DIR__.'/uploads';
+  $id=rid(24).'.'.$ext; $dir=up_dir();
   if (!is_dir($dir)) mkdir($dir,0750,true);
   if (!move_uploaded_file($f['tmp_name'],"$dir/$id")) erro('não foi possível salvar o arquivo',500);
   q('INSERT INTO files (id,mime,size,uid,created_at) VALUES (?,?,?,?,UTC_TIMESTAMP())',[$id,$mime,$f['size'],$u['id']]);
@@ -209,7 +209,7 @@ case 'upload':
 case 'file':
   $id=(string)($_GET['id']??'');
   if (!preg_match('/^[a-z0-9]{24}\.(jpg|png|webp|gif|pdf)$/',$id)) erro('não encontrado',404);
-  $r=q('SELECT mime FROM files WHERE id=?',[$id])->fetch(); $fp=__DIR__."/uploads/$id";
+  $r=q('SELECT mime FROM files WHERE id=?',[$id])->fetch(); $fp=up_dir()."/$id"; if (!is_file($fp)) $fp=__DIR__."/uploads/$id";
   if (!$r||!is_file($fp)) erro('não encontrado',404);
   header_remove('Content-Type'); header('Content-Type: '.$r['mime']); header('Content-Length: '.filesize($fp));
   header('Cache-Control: private, max-age=86400'); header("Content-Security-Policy: default-src 'none'; img-src 'self'; style-src 'unsafe-inline'; sandbox");

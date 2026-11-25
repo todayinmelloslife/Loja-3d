@@ -6,3 +6,5 @@ testes/t.html
 __pycache__/
 *.pyc
 .DS_Store
+central-config.php
+central-uploads/

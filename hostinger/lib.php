@@ -15,7 +15,10 @@ const PAPEIS=[
  'vendas'=>['pedidos','clientes','produtos','ordens','movs'],
  'financeiro'=>['fin','compras','fornecedores','movs','materiais']];
 
-function cfg(): array { static $c; return $c ??= require __DIR__.'/config.php'; }
+function cfg_fora(): string { return dirname(__DIR__).'/central-config.php'; }
+function cfg_arq(): ?string { foreach ([cfg_fora(),__DIR__.'/config.php'] as $f) if (@is_file($f)) return $f; return null; }
+function cfg(): array { static $c; return $c ??= require cfg_arq(); }
+function up_dir(): string { $d=dirname(__DIR__).'/central-uploads'; return (@is_dir($d)||@mkdir($d,0750,true))?$d:__DIR__.'/uploads'; }
 function db(): PDO {
   static $p;
   if (!$p) { $c=cfg(); $p=new PDO("mysql:host={$c['host']};dbname={$c['name']};charset=utf8mb4",$c['user'],$c['pass'],[PDO::ATTR_ERRMODE=>PDO::ERRMODE_EXCEPTION,PDO::ATTR_DEFAULT_FETCH_MODE=>PDO::FETCH_ASSOC,PDO::ATTR_EMULATE_PREPARES=>false]); }
