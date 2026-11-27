@@ -34,7 +34,7 @@ Modo artifact: `python3 testes/gerar_mock.py` e depois `python3 testes/run4.py` 
 Regra de ouro: edite **`app/index.html`** (fonte única). Rode `build_hosted.py` antes de commitar ou deixe o Actions gerar.
 
 ## Modelo de dados (coleções)
-materiais (estoque em g/un, custoUnit = custo médio ponderado), produtos (tipo produto|kit|insumo; `bom` = [{t:'m'|'p', id, q}]; `est` {pronto,reservado,defeito,expo}; variações de cor = produtos irmãos com mesmo `grupo`, `corNome`, `corHex`), pedidos (itens {pid,q,pu,cu,res}), ordens (OPs), compras (pagoPor = quem pagou do bolso → acerto de contas), fin (lançamentos; só nível admin), movs (histórico), clientes, fornecedores, impressoras, tarefas, posts (quadro tipo Trello), chat, membros (roles por pessoa), config/geral, audit/<uid>/e, acessos/<uid>, locks.
+materiais (estoque em g/un, custoUnit = custo médio ponderado), produtos (tipo produto|kit|insumo; `bom` = [{t:'m'|'p', id, q}]; `placas` = [{n, min, f:[{id,g}]}] (produto: filamento e tempo por placa, igual ao fatiador; ao salvar, a soma vira as linhas de filamento do `bom` ÷ `pecasImp` e o `tempoImpMin`); `est` {pronto,reservado,defeito,expo}; variações de cor = produtos irmãos com mesmo `grupo`, `corNome`, `corHex`), pedidos (itens {pid,q,pu,cu,res}), ordens (OPs), compras (pagoPor = quem pagou do bolso → acerto de contas), fin (lançamentos; só nível admin), movs (histórico), clientes, fornecedores, impressoras, tarefas, posts (quadro tipo Trello), chat, membros (roles por pessoa), config/geral, audit/<uid>/e, acessos/<uid>, locks.
 Exclusão é lógica (`excluido:true`) → Lixeira. Toda gravação passa por `save()` que audita antes/depois.
 
 ## Regras de negócio decididas com a Duda
