@@ -46,6 +46,7 @@ Exclusão é lógica (`excluido:true`) → Lixeira. Toda gravação passa por `s
 - Uma impressora só: dados dela ficam em Custos (impPot, impValor, impVida, impManut).
 - Botão **Produzi** = baixa por receita (igual ao app de biscoitos "Custos da Fornada" dela).
 - Kits aceitam produtos, materiais e "itens feitos por mim" (tipo insumo: cartinha, adesivo, embalagem).
+- Canal **Presente** (fixo em Origem da venda): o pedido guarda o preço normal (valor do presente), mas não vira receita nem "a receber" no Financeiro; o Painel mostra "Presentes no mês" separado do faturamento; nos relatórios aparece como canal Presente.
 - Acerto de contas: investiu (compras/despesas pagas pela pessoa + aportes) − devolvido (Reembolso a sócio) → depois divide o lucro.
 - Arrastar para a esquerda = lixo (com Desfazer). Chat com aviso, som, contador e silenciar.
 - Estoque usa trava por item (`locked()` + leitura fresca) — testado: 2 pessoas × 25 somas = 50 exatos.
