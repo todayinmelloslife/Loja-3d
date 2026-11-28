@@ -8,3 +8,4 @@ __pycache__/
 .DS_Store
 central-config.php
 central-uploads/
+catalogo/importar-central.json
