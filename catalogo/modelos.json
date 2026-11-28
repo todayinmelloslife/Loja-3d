@@ -1,0 +1,9271 @@
+{
+ "cores": {
+  "Branco": "#f4f1ea",
+  "Azul": "#8ec5ea",
+  "Azul claro": "#bfe1ff",
+  "Azul escuro": "#2f4f8f",
+  "Rosa": "#f4a7c3",
+  "Rosa claro": "#ffd1e3",
+  "Rosa escuro": "#e0559a",
+  "Roxo": "#7b4fc9",
+  "Verde claro": "#b8e6b0",
+  "Preto": "#222222",
+  "Verde": "#8fcf5a",
+  "Amarelo": "#f7d84a",
+  "Laranja": "#f59a3c"
+ },
+ "modelos": [
+  {
+   "nome": "Y2K Flip Phone Card Holder",
+   "autor": "miyabi (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Porta-cartão em formato de celular flip, com ímã. Para photocard, polaroid e documento.",
+   "foto": "flip-phone-card-holder.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco e azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Branco",
+         29
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2",
+       "min": 17,
+       "f": [
+        [
+         "Branco",
+         4
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3",
+       "min": 27,
+       "f": [
+        [
+         "Azul",
+         6
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4",
+       "min": 14,
+       "f": [
+        [
+         "Azul claro",
+         2
+        ],
+        [
+         "Azul escuro",
+         2
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Branco e rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Branco",
+         29
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2",
+       "min": 17,
+       "f": [
+        [
+         "Branco",
+         4
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3",
+       "min": 27,
+       "f": [
+        [
+         "Rosa",
+         6
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4",
+       "min": 14,
+       "f": [
+        [
+         "Rosa claro",
+         2
+        ],
+        [
+         "Rosa escuro",
+         2
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Lollipop Swirl Coaster",
+   "autor": "Merilno3D (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Porta-copos em espiral de pirulito, duas cores, sem AMS (troca de filamento manual).",
+   "foto": "lollipop-swirl-coaster.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa e branco",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 60,
+       "f": [
+        [
+         "Rosa",
+         17
+        ],
+        [
+         "Branco",
+         17
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo e branco",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 60,
+       "f": [
+        [
+         "Roxo",
+         17
+        ],
+        [
+         "Branco",
+         17
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul e branco",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 60,
+       "f": [
+        [
+         "Azul",
+         17
+        ],
+        [
+         "Branco",
+         17
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Funky Retro Pop Shelf",
+   "autor": "Merilno3D (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Prateleira retrô com moldura arredondada, fundo de bolinhas e prateleiras xadrez.",
+   "foto": "funky-retro-pop-shelf.jpg",
+   "variacoes": [
+    {
+     "corNome": "Roxo e verde",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1 – Moldura",
+       "min": 228,
+       "f": [
+        [
+         "Roxo",
+         122
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo com bolinhas",
+       "min": 234,
+       "f": [
+        [
+         "Roxo",
+         179
+        ],
+        [
+         "Rosa claro",
+         18
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Prateleiras xadrez",
+       "min": 180,
+       "f": [
+        [
+         "Verde claro",
+         111
+        ],
+        [
+         "Rosa claro",
+         23
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Prateleira xadrez",
+       "min": 96,
+       "f": [
+        [
+         "Verde claro",
+         57
+        ],
+        [
+         "Rosa claro",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa e branco",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Moldura",
+       "min": 228,
+       "f": [
+        [
+         "Rosa",
+         122
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo com bolinhas",
+       "min": 234,
+       "f": [
+        [
+         "Rosa",
+         179
+        ],
+        [
+         "Rosa claro",
+         18
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Prateleiras xadrez",
+       "min": 180,
+       "f": [
+        [
+         "Branco",
+         111
+        ],
+        [
+         "Rosa claro",
+         23
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Prateleira xadrez",
+       "min": 96,
+       "f": [
+        [
+         "Branco",
+         57
+        ],
+        [
+         "Rosa claro",
+         12
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Brinco Fita Cassete",
+   "autor": "MakerWorld",
+   "colecao": "Y2K",
+   "descricao": "Par de brincos em formato de fita cassete. Precisa de 2 ganchos de brinco e 2 argolinhas.",
+   "foto": "brinco-fita-cassete.jpg",
+   "variacoes": [
+    {
+     "corNome": "Azul e branco",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1 – Par de brincos",
+       "min": 138,
+       "f": [
+        [
+         "Azul",
+         25
+        ],
+        [
+         "Branco",
+         9
+        ],
+        [
+         "Preto",
+         3
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro e branco",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1 – Par de brincos",
+       "min": 138,
+       "f": [
+        [
+         "Azul claro",
+         25
+        ],
+        [
+         "Branco",
+         9
+        ],
+        [
+         "Preto",
+         3
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro e branco",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1 – Par de brincos",
+       "min": 138,
+       "f": [
+        [
+         "Azul escuro",
+         25
+        ],
+        [
+         "Branco",
+         9
+        ],
+        [
+         "Preto",
+         3
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa e branco",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Par de brincos",
+       "min": 138,
+       "f": [
+        [
+         "Rosa",
+         25
+        ],
+        [
+         "Branco",
+         9
+        ],
+        [
+         "Preto",
+         3
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro e branco",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1 – Par de brincos",
+       "min": 138,
+       "f": [
+        [
+         "Rosa claro",
+         25
+        ],
+        [
+         "Branco",
+         9
+        ],
+        [
+         "Preto",
+         3
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro e branco",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1 – Par de brincos",
+       "min": 138,
+       "f": [
+        [
+         "Rosa escuro",
+         25
+        ],
+        [
+         "Branco",
+         9
+        ],
+        [
+         "Preto",
+         3
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo e branco",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1 – Par de brincos",
+       "min": 138,
+       "f": [
+        [
+         "Roxo",
+         25
+        ],
+        [
+         "Branco",
+         9
+        ],
+        [
+         "Preto",
+         3
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro e branco",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1 – Par de brincos",
+       "min": 138,
+       "f": [
+        [
+         "Verde claro",
+         25
+        ],
+        [
+         "Branco",
+         9
+        ],
+        [
+         "Preto",
+         3
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Arch Shelf",
+   "autor": "Merilno3D (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Prateleira em arco com 3 prateleiras.",
+   "foto": "arch-shelf.jpg",
+   "variacoes": [
+    {
+     "corNome": "Verde e roxo",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1 – Arco (frente)",
+       "min": 78,
+       "f": [
+        [
+         "Verde",
+         45
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo",
+       "min": 126,
+       "f": [
+        [
+         "Roxo",
+         99
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Prateleiras",
+       "min": 138,
+       "f": [
+        [
+         "Verde claro",
+         112
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Funky Retro Display Shelf Vibe",
+   "autor": "Merilno3D (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Prateleira com moldura ondulada listrada, fundo de nuvem e estrela.",
+   "foto": "funky-retro-display-shelf.jpg",
+   "variacoes": [
+    {
+     "corNome": "Amarelo e rosa pitaia",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1 – Frente",
+       "min": 162,
+       "f": [
+        [
+         "Amarelo",
+         68
+        ],
+        [
+         "Roxo",
+         11
+        ],
+        [
+         "Rosa claro",
+         10
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Prateleiras",
+       "min": 222,
+       "f": [
+        [
+         "Rosa escuro",
+         171
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Fundo",
+       "min": 228,
+       "f": [
+        [
+         "Amarelo",
+         165
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Estrela",
+       "min": 13,
+       "f": [
+        [
+         "Amarelo",
+         3
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Suporte de Fone Ondulado",
+   "autor": "MakerWorld",
+   "colecao": "Y2K",
+   "descricao": "Suporte de headphone com base em ondas. A haste é colada na base (precisa de cola).",
+   "foto": "suporte-fone.jpg",
+   "variacoes": [
+    {
+     "corNome": "Roxo e rosa",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1 – Base",
+       "min": 72,
+       "f": [
+        [
+         "Roxo",
+         41
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Haste (colar na base)",
+       "min": 144,
+       "f": [
+        [
+         "Rosa",
+         88
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde e rosa",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1 – Base",
+       "min": 72,
+       "f": [
+        [
+         "Verde",
+         41
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Haste (colar na base)",
+       "min": 144,
+       "f": [
+        [
+         "Rosa",
+         88
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Arch Tray Shelf",
+   "autor": "MakerWorld",
+   "colecao": "Y2K",
+   "descricao": "Prateleira de 2 andares com bandejas apoiadas em dois arcos.",
+   "foto": "arch-tray-shelf.jpg",
+   "variacoes": [
+    {
+     "corNome": "Bandejas verdes, arcos roxos",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1 – Bandeja",
+       "min": 120,
+       "f": [
+        [
+         "Verde",
+         89
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Arco",
+       "min": 168,
+       "f": [
+        [
+         "Roxo",
+         127
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Arco",
+       "min": 168,
+       "f": [
+        [
+         "Roxo",
+         127
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Bandeja",
+       "min": 120,
+       "f": [
+        [
+         "Verde",
+         89
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Bandejas rosa, arcos verdes",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1 – Bandeja",
+       "min": 120,
+       "f": [
+        [
+         "Rosa",
+         89
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Arco",
+       "min": 168,
+       "f": [
+        [
+         "Verde",
+         127
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Arco",
+       "min": 168,
+       "f": [
+        [
+         "Verde",
+         127
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Bandeja",
+       "min": 120,
+       "f": [
+        [
+         "Rosa",
+         89
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Bandejas verdes, arcos rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Bandeja",
+       "min": 120,
+       "f": [
+        [
+         "Verde",
+         89
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Arco",
+       "min": 168,
+       "f": [
+        [
+         "Rosa",
+         127
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Arco",
+       "min": 168,
+       "f": [
+        [
+         "Rosa",
+         127
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Bandeja",
+       "min": 120,
+       "f": [
+        [
+         "Verde",
+         89
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Chaveiro Burn Book",
+   "autor": "Maijo3D (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Chaveiro do Burn Book (Meninas Malvadas). Precisa de 1 argola de chaveiro.",
+   "foto": "chaveiro-burn-book.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa e branco",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Miolo e capa de trás",
+       "min": 23,
+       "f": [
+        [
+         "Rosa",
+         4
+        ],
+        [
+         "Branco",
+         6
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Capa da frente",
+       "min": 37,
+       "f": [
+        [
+         "Rosa",
+         8
+        ],
+        [
+         "Branco",
+         1
+        ],
+        [
+         "Preto",
+         1
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Suporte de Celular Ondulado",
+   "autor": "Merilno3D (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Suporte de celular em forma de onda, de uma cor só.",
+   "foto": "suporte-celular.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Branco",
+         69
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Azul",
+         69
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Azul claro",
+         69
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Azul escuro",
+         69
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Rosa",
+         69
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Rosa claro",
+         69
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Rosa escuro",
+         69
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Roxo",
+         69
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Verde claro",
+         69
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Verde",
+         69
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Amarelo",
+         69
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Bubble Lipstick Holder G",
+   "autor": "Marú criativa (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Porta-batom de bolhas, tamanho G, com alça.",
+   "foto": "bubble-lipstick-holder.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa – tamanho G",
+       "min": 90,
+       "f": [
+        [
+         "Branco",
+         31
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa – tamanho G",
+       "min": 90,
+       "f": [
+        [
+         "Azul",
+         31
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa – tamanho G",
+       "min": 90,
+       "f": [
+        [
+         "Azul claro",
+         31
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa – tamanho G",
+       "min": 90,
+       "f": [
+        [
+         "Azul escuro",
+         31
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa – tamanho G",
+       "min": 90,
+       "f": [
+        [
+         "Rosa",
+         31
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa – tamanho G",
+       "min": 90,
+       "f": [
+        [
+         "Rosa claro",
+         31
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa – tamanho G",
+       "min": 90,
+       "f": [
+        [
+         "Rosa escuro",
+         31
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa – tamanho G",
+       "min": 90,
+       "f": [
+        [
+         "Roxo",
+         31
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa – tamanho G",
+       "min": 90,
+       "f": [
+        [
+         "Verde claro",
+         31
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa – tamanho G",
+       "min": 90,
+       "f": [
+        [
+         "Verde",
+         31
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa – tamanho G",
+       "min": 90,
+       "f": [
+        [
+         "Amarelo",
+         31
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Bubble Lipstick Holder M",
+   "autor": "Marú criativa (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Porta-batom de bolhas, tamanho M, com alça.",
+   "foto": "bubble-lipstick-holder.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa – tamanho M",
+       "min": 66,
+       "f": [
+        [
+         "Branco",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa – tamanho M",
+       "min": 66,
+       "f": [
+        [
+         "Azul",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa – tamanho M",
+       "min": 66,
+       "f": [
+        [
+         "Azul claro",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa – tamanho M",
+       "min": 66,
+       "f": [
+        [
+         "Azul escuro",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa – tamanho M",
+       "min": 66,
+       "f": [
+        [
+         "Rosa",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa – tamanho M",
+       "min": 66,
+       "f": [
+        [
+         "Rosa claro",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa – tamanho M",
+       "min": 66,
+       "f": [
+        [
+         "Rosa escuro",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa – tamanho M",
+       "min": 66,
+       "f": [
+        [
+         "Roxo",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa – tamanho M",
+       "min": 66,
+       "f": [
+        [
+         "Verde claro",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa – tamanho M",
+       "min": 66,
+       "f": [
+        [
+         "Verde",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa – tamanho M",
+       "min": 66,
+       "f": [
+        [
+         "Amarelo",
+         21
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Bubble Lipstick Holder P",
+   "autor": "Marú criativa (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Porta-batom de bolhas, tamanho P, com alça.",
+   "foto": "bubble-lipstick-holder.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa – tamanho P",
+       "min": 50,
+       "f": [
+        [
+         "Branco",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa – tamanho P",
+       "min": 50,
+       "f": [
+        [
+         "Azul",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa – tamanho P",
+       "min": 50,
+       "f": [
+        [
+         "Azul claro",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa – tamanho P",
+       "min": 50,
+       "f": [
+        [
+         "Azul escuro",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa – tamanho P",
+       "min": 50,
+       "f": [
+        [
+         "Rosa",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa – tamanho P",
+       "min": 50,
+       "f": [
+        [
+         "Rosa claro",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa – tamanho P",
+       "min": 50,
+       "f": [
+        [
+         "Rosa escuro",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa – tamanho P",
+       "min": 50,
+       "f": [
+        [
+         "Roxo",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa – tamanho P",
+       "min": 50,
+       "f": [
+        [
+         "Verde claro",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa – tamanho P",
+       "min": 50,
+       "f": [
+        [
+         "Verde",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa – tamanho P",
+       "min": 50,
+       "f": [
+        [
+         "Amarelo",
+         12
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Chaveiro Câmera Instax Mini",
+   "autor": "kusira (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Chaveiro de câmera instantânea. Precisa de 1 argola de chaveiro.",
+   "foto": "chaveiro-instax.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Branco",
+         10
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Azul",
+         10
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Azul claro",
+         10
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Azul escuro",
+         10
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Rosa",
+         10
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Rosa claro",
+         10
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Rosa escuro",
+         10
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Roxo",
+         10
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Verde claro",
+         10
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Verde",
+         10
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Amarelo",
+         10
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Porta-Maquiagem Bolhas Quadrado",
+   "autor": "windko 3D (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Porta-maquiagem/porta-lápis de bolhas, formato quadrado (o da foto em tons claros).",
+   "foto": "bubble-pen-holder.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Rosa",
+         74
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Roxo",
+         74
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Verde",
+         74
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Branco",
+         74
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 126,
+       "f": [
+        [
+         "Amarelo",
+         74
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Porta-Maquiagem Bolhas Redondo",
+   "autor": "windko 3D (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Porta-maquiagem/porta-lápis de bolhas, formato redondo (o lilás da foto).",
+   "foto": "bubble-pen-holder.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Rosa",
+         58
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Roxo",
+         58
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Verde",
+         58
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Branco",
+         58
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Amarelo",
+         58
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Kit Chaveiros Fitness",
+   "autor": "二队长么 (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Kit de chaveiros de academia. Uma impressão completa rende: 1 rolinho de massagem, 1 kettlebell, 1 bastão fininho, 1 halter e 4 anilhas (mais o rack e o banco de supino das placas 2 e 3). Precisa de argolas de chaveiro.",
+   "foto": "chaveiros-fitness.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Kettlebell, halter e anilhas",
+       "min": 150,
+       "f": [
+        [
+         "Rosa",
+         50
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Rack de supino",
+       "min": 55,
+       "f": [
+        [
+         "Rosa",
+         25
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Banco de supino",
+       "min": 53,
+       "f": [
+        [
+         "Rosa",
+         21
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Rolinhos e porcas",
+       "min": 114,
+       "f": [
+        [
+         "Rosa",
+         28
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1 – Kettlebell, halter e anilhas",
+       "min": 150,
+       "f": [
+        [
+         "Rosa claro",
+         50
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Rack de supino",
+       "min": 55,
+       "f": [
+        [
+         "Rosa claro",
+         25
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Banco de supino",
+       "min": 53,
+       "f": [
+        [
+         "Rosa claro",
+         21
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Rolinhos e porcas",
+       "min": 114,
+       "f": [
+        [
+         "Rosa claro",
+         28
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1 – Kettlebell, halter e anilhas",
+       "min": 150,
+       "f": [
+        [
+         "Rosa escuro",
+         50
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Rack de supino",
+       "min": 55,
+       "f": [
+        [
+         "Rosa escuro",
+         25
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Banco de supino",
+       "min": 53,
+       "f": [
+        [
+         "Rosa escuro",
+         21
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Rolinhos e porcas",
+       "min": 114,
+       "f": [
+        [
+         "Rosa escuro",
+         28
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1 – Kettlebell, halter e anilhas",
+       "min": 150,
+       "f": [
+        [
+         "Roxo",
+         50
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Rack de supino",
+       "min": 55,
+       "f": [
+        [
+         "Roxo",
+         25
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Banco de supino",
+       "min": 53,
+       "f": [
+        [
+         "Roxo",
+         21
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Rolinhos e porcas",
+       "min": 114,
+       "f": [
+        [
+         "Roxo",
+         28
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1 – Kettlebell, halter e anilhas",
+       "min": 150,
+       "f": [
+        [
+         "Branco",
+         50
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Rack de supino",
+       "min": 55,
+       "f": [
+        [
+         "Branco",
+         25
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Banco de supino",
+       "min": 53,
+       "f": [
+        [
+         "Branco",
+         21
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Rolinhos e porcas",
+       "min": 114,
+       "f": [
+        [
+         "Branco",
+         28
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1 – Kettlebell, halter e anilhas",
+       "min": 150,
+       "f": [
+        [
+         "Amarelo",
+         50
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Rack de supino",
+       "min": 55,
+       "f": [
+        [
+         "Amarelo",
+         25
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Banco de supino",
+       "min": 53,
+       "f": [
+        [
+         "Amarelo",
+         21
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Rolinhos e porcas",
+       "min": 114,
+       "f": [
+        [
+         "Amarelo",
+         28
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Chaveiro Porta-Escovinha de Cílios",
+   "autor": "MakerWorld",
+   "colecao": "Y2K",
+   "descricao": "Chaveiro porta-escovinha de cílios com base de suporte. Precisa de 1 argola/mosquetão.",
+   "foto": "porta-escovinha.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Rosa",
+         25
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Rosa claro",
+         25
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Rosa escuro",
+         25
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Roxo",
+         25
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Branco",
+         25
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Pote Redondinho com Alça",
+   "autor": "Ada & K (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Pote de anéis empilhados com tampa e alça.",
+   "foto": "potes-ada-k.jpg",
+   "variacoes": [
+    {
+     "corNome": "Azul com alça rosa",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1 – Corpo e tampa",
+       "min": 186,
+       "f": [
+        [
+         "Azul",
+         138
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Alça",
+       "min": 31,
+       "f": [
+        [
+         "Rosa",
+         19
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde com alça rosa",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1 – Corpo e tampa",
+       "min": 186,
+       "f": [
+        [
+         "Verde",
+         138
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Alça",
+       "min": 31,
+       "f": [
+        [
+         "Rosa",
+         19
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja com alça rosa claro",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa 1 – Corpo e tampa",
+       "min": 186,
+       "f": [
+        [
+         "Laranja",
+         138
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Alça",
+       "min": 31,
+       "f": [
+        [
+         "Rosa claro",
+         19
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Pote Florzinha com Alça",
+   "autor": "Ada & K (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Pote em formato de flor com tampa e alça.",
+   "foto": "potes-ada-k.jpg",
+   "variacoes": [
+    {
+     "corNome": "Azul com alça rosa",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1 – Corpo e tampa",
+       "min": 564,
+       "f": [
+        [
+         "Azul",
+         243
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Alça",
+       "min": 37,
+       "f": [
+        [
+         "Rosa",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde com alça rosa",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1 – Corpo e tampa",
+       "min": 564,
+       "f": [
+        [
+         "Verde",
+         243
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Alça",
+       "min": 37,
+       "f": [
+        [
+         "Rosa",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja com alça rosa claro",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa 1 – Corpo e tampa",
+       "min": 564,
+       "f": [
+        [
+         "Laranja",
+         243
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Alça",
+       "min": 37,
+       "f": [
+        [
+         "Rosa claro",
+         21
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Laços – Pote de Algodão",
+   "autor": "NikiPiki (MakerWorld)",
+   "colecao": "Laços",
+   "descricao": "Linha de nécessaire com laços em relevo.",
+   "foto": "kit-lacos.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 150,
+       "f": [
+        [
+         "Branco",
+         46
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 150,
+       "f": [
+        [
+         "Azul",
+         46
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 150,
+       "f": [
+        [
+         "Azul claro",
+         46
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 150,
+       "f": [
+        [
+         "Azul escuro",
+         46
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 150,
+       "f": [
+        [
+         "Rosa",
+         46
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 150,
+       "f": [
+        [
+         "Rosa claro",
+         46
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 150,
+       "f": [
+        [
+         "Rosa escuro",
+         46
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 150,
+       "f": [
+        [
+         "Roxo",
+         46
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 150,
+       "f": [
+        [
+         "Verde claro",
+         46
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 150,
+       "f": [
+        [
+         "Verde",
+         46
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 150,
+       "f": [
+        [
+         "Amarelo",
+         46
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Laços – Potinho Chaveiro",
+   "autor": "NikiPiki (MakerWorld)",
+   "colecao": "Laços",
+   "descricao": "Linha de nécessaire com laços em relevo.",
+   "foto": "kit-lacos.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Branco",
+         20
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Azul",
+         20
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Azul claro",
+         20
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Azul escuro",
+         20
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Rosa",
+         20
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Rosa claro",
+         20
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Rosa escuro",
+         20
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Roxo",
+         20
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Verde claro",
+         20
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Verde",
+         20
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Amarelo",
+         20
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Laços – Estojo de Batom",
+   "autor": "NikiPiki (MakerWorld)",
+   "colecao": "Laços",
+   "descricao": "Linha de nécessaire com laços em relevo.",
+   "foto": "kit-lacos.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Branco",
+         27
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Azul",
+         27
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Azul claro",
+         27
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Azul escuro",
+         27
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Rosa",
+         27
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Rosa claro",
+         27
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Rosa escuro",
+         27
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Roxo",
+         27
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Verde claro",
+         27
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Verde",
+         27
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Amarelo",
+         27
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Laços – Cápsula Pequena",
+   "autor": "NikiPiki (MakerWorld)",
+   "colecao": "Laços",
+   "descricao": "Linha de nécessaire com laços em relevo.",
+   "foto": "kit-lacos.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Branco",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Azul",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Azul claro",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Azul escuro",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Rosa",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Rosa claro",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Rosa escuro",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Roxo",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Verde claro",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Verde",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Amarelo",
+         12
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Laços – Cápsula Média",
+   "autor": "NikiPiki (MakerWorld)",
+   "colecao": "Laços",
+   "descricao": "Linha de nécessaire com laços em relevo.",
+   "foto": "kit-lacos.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Branco",
+         14
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Azul",
+         14
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Azul claro",
+         14
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Azul escuro",
+         14
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Rosa",
+         14
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Rosa claro",
+         14
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Rosa escuro",
+         14
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Roxo",
+         14
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Verde claro",
+         14
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Verde",
+         14
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 78,
+       "f": [
+        [
+         "Amarelo",
+         14
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Laços – Porta-Escova de Dente",
+   "autor": "NikiPiki (MakerWorld)",
+   "colecao": "Laços",
+   "descricao": "Linha de nécessaire com laços em relevo.",
+   "foto": "kit-lacos.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 240,
+       "f": [
+        [
+         "Branco",
+         50
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 240,
+       "f": [
+        [
+         "Azul",
+         50
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 240,
+       "f": [
+        [
+         "Azul claro",
+         50
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 240,
+       "f": [
+        [
+         "Azul escuro",
+         50
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 240,
+       "f": [
+        [
+         "Rosa",
+         50
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 240,
+       "f": [
+        [
+         "Rosa claro",
+         50
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 240,
+       "f": [
+        [
+         "Rosa escuro",
+         50
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 240,
+       "f": [
+        [
+         "Roxo",
+         50
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 240,
+       "f": [
+        [
+         "Verde claro",
+         50
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 240,
+       "f": [
+        [
+         "Verde",
+         50
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 240,
+       "f": [
+        [
+         "Amarelo",
+         50
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Chaveiro Morango Porta-Gloss",
+   "autor": "MakerWorld",
+   "colecao": "Y2K",
+   "descricao": "Capinha de morango para gloss/hidratante labial (tipo Rhode), com chaveiro. Opcional: strass colados e pompom. Precisa de mosquetão/argola.",
+   "foto": "morango-lip-cap.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa e verde",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Morango",
+       "min": 51,
+       "f": [
+        [
+         "Rosa",
+         9
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Folhinhas",
+       "min": 15,
+       "f": [
+        [
+         "Verde",
+         2
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Chaveiro Margarida Abridor de Lata",
+   "autor": "MakerWorld",
+   "colecao": "Y2K",
+   "descricao": "Chaveiro de margarida que também abre lata. Precisa de mosquetão/argola.",
+   "foto": "chaveiro-margarida.jpg",
+   "variacoes": [
+    {
+     "corNome": "Pétalas branco, miolo rosa",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1 – Margarida",
+       "min": 32,
+       "f": [
+        [
+         "Branco",
+         12
+        ],
+        [
+         "Rosa",
+         1
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Pétalas rosa, miolo branco",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Margarida",
+       "min": 32,
+       "f": [
+        [
+         "Rosa",
+         12
+        ],
+        [
+         "Branco",
+         1
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Pétalas amarelo, miolo branco",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1 – Margarida",
+       "min": 32,
+       "f": [
+        [
+         "Amarelo",
+         12
+        ],
+        [
+         "Branco",
+         1
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Pétalas roxo, miolo branco",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1 – Margarida",
+       "min": 32,
+       "f": [
+        [
+         "Roxo",
+         12
+        ],
+        [
+         "Branco",
+         1
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Wibble Laptop Stand – vão 25 mm",
+   "autor": "Abstractia Design (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Suporte vertical ondulado para notebook. Vão de 25 mm: escolha pela espessura do notebook (meça o Mac fechado).",
+   "foto": "wibble-laptop-stand.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa – vão 25 mm",
+       "min": 246,
+       "f": [
+        [
+         "Branco",
+         220
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa – vão 25 mm",
+       "min": 246,
+       "f": [
+        [
+         "Azul",
+         220
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa – vão 25 mm",
+       "min": 246,
+       "f": [
+        [
+         "Azul claro",
+         220
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa – vão 25 mm",
+       "min": 246,
+       "f": [
+        [
+         "Azul escuro",
+         220
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa – vão 25 mm",
+       "min": 246,
+       "f": [
+        [
+         "Rosa",
+         220
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa – vão 25 mm",
+       "min": 246,
+       "f": [
+        [
+         "Rosa claro",
+         220
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa – vão 25 mm",
+       "min": 246,
+       "f": [
+        [
+         "Rosa escuro",
+         220
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa – vão 25 mm",
+       "min": 246,
+       "f": [
+        [
+         "Roxo",
+         220
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa – vão 25 mm",
+       "min": 246,
+       "f": [
+        [
+         "Verde claro",
+         220
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa – vão 25 mm",
+       "min": 246,
+       "f": [
+        [
+         "Verde",
+         220
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa – vão 25 mm",
+       "min": 246,
+       "f": [
+        [
+         "Amarelo",
+         220
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa – vão 25 mm",
+       "min": 246,
+       "f": [
+        [
+         "Laranja",
+         220
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Wibble Laptop Stand – vão 23 mm",
+   "autor": "Abstractia Design (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Suporte vertical ondulado para notebook. Vão de 23 mm: escolha pela espessura do notebook (meça o Mac fechado).",
+   "foto": "wibble-laptop-stand.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa – vão 23 mm",
+       "min": 252,
+       "f": [
+        [
+         "Branco",
+         219
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa – vão 23 mm",
+       "min": 252,
+       "f": [
+        [
+         "Azul",
+         219
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa – vão 23 mm",
+       "min": 252,
+       "f": [
+        [
+         "Azul claro",
+         219
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa – vão 23 mm",
+       "min": 252,
+       "f": [
+        [
+         "Azul escuro",
+         219
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa – vão 23 mm",
+       "min": 252,
+       "f": [
+        [
+         "Rosa",
+         219
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa – vão 23 mm",
+       "min": 252,
+       "f": [
+        [
+         "Rosa claro",
+         219
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa – vão 23 mm",
+       "min": 252,
+       "f": [
+        [
+         "Rosa escuro",
+         219
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa – vão 23 mm",
+       "min": 252,
+       "f": [
+        [
+         "Roxo",
+         219
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa – vão 23 mm",
+       "min": 252,
+       "f": [
+        [
+         "Verde claro",
+         219
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa – vão 23 mm",
+       "min": 252,
+       "f": [
+        [
+         "Verde",
+         219
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa – vão 23 mm",
+       "min": 252,
+       "f": [
+        [
+         "Amarelo",
+         219
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa – vão 23 mm",
+       "min": 252,
+       "f": [
+        [
+         "Laranja",
+         219
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Wibble Laptop Stand – vão 21 mm",
+   "autor": "Abstractia Design (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Suporte vertical ondulado para notebook. Vão de 21 mm: escolha pela espessura do notebook (meça o Mac fechado).",
+   "foto": "wibble-laptop-stand.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa – vão 21 mm",
+       "min": 246,
+       "f": [
+        [
+         "Branco",
+         215
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa – vão 21 mm",
+       "min": 246,
+       "f": [
+        [
+         "Azul",
+         215
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa – vão 21 mm",
+       "min": 246,
+       "f": [
+        [
+         "Azul claro",
+         215
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa – vão 21 mm",
+       "min": 246,
+       "f": [
+        [
+         "Azul escuro",
+         215
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa – vão 21 mm",
+       "min": 246,
+       "f": [
+        [
+         "Rosa",
+         215
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa – vão 21 mm",
+       "min": 246,
+       "f": [
+        [
+         "Rosa claro",
+         215
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa – vão 21 mm",
+       "min": 246,
+       "f": [
+        [
+         "Rosa escuro",
+         215
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa – vão 21 mm",
+       "min": 246,
+       "f": [
+        [
+         "Roxo",
+         215
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa – vão 21 mm",
+       "min": 246,
+       "f": [
+        [
+         "Verde claro",
+         215
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa – vão 21 mm",
+       "min": 246,
+       "f": [
+        [
+         "Verde",
+         215
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa – vão 21 mm",
+       "min": 246,
+       "f": [
+        [
+         "Amarelo",
+         215
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa – vão 21 mm",
+       "min": 246,
+       "f": [
+        [
+         "Laranja",
+         215
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Wibble Laptop Stand – vão 19 mm",
+   "autor": "Abstractia Design (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Suporte vertical ondulado para notebook. Vão de 19 mm: escolha pela espessura do notebook (meça o Mac fechado).",
+   "foto": "wibble-laptop-stand.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa – vão 19 mm",
+       "min": 240,
+       "f": [
+        [
+         "Branco",
+         213
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa – vão 19 mm",
+       "min": 240,
+       "f": [
+        [
+         "Azul",
+         213
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa – vão 19 mm",
+       "min": 240,
+       "f": [
+        [
+         "Azul claro",
+         213
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa – vão 19 mm",
+       "min": 240,
+       "f": [
+        [
+         "Azul escuro",
+         213
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa – vão 19 mm",
+       "min": 240,
+       "f": [
+        [
+         "Rosa",
+         213
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa – vão 19 mm",
+       "min": 240,
+       "f": [
+        [
+         "Rosa claro",
+         213
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa – vão 19 mm",
+       "min": 240,
+       "f": [
+        [
+         "Rosa escuro",
+         213
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa – vão 19 mm",
+       "min": 240,
+       "f": [
+        [
+         "Roxo",
+         213
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa – vão 19 mm",
+       "min": 240,
+       "f": [
+        [
+         "Verde claro",
+         213
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa – vão 19 mm",
+       "min": 240,
+       "f": [
+        [
+         "Verde",
+         213
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa – vão 19 mm",
+       "min": 240,
+       "f": [
+        [
+         "Amarelo",
+         213
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa – vão 19 mm",
+       "min": 240,
+       "f": [
+        [
+         "Laranja",
+         213
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Wibble Laptop Stand – vão 17 mm",
+   "autor": "Abstractia Design (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Suporte vertical ondulado para notebook. Vão de 17 mm: escolha pela espessura do notebook (meça o Mac fechado).",
+   "foto": "wibble-laptop-stand.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa – vão 17 mm",
+       "min": 240,
+       "f": [
+        [
+         "Branco",
+         210
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa – vão 17 mm",
+       "min": 240,
+       "f": [
+        [
+         "Azul",
+         210
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa – vão 17 mm",
+       "min": 240,
+       "f": [
+        [
+         "Azul claro",
+         210
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa – vão 17 mm",
+       "min": 240,
+       "f": [
+        [
+         "Azul escuro",
+         210
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa – vão 17 mm",
+       "min": 240,
+       "f": [
+        [
+         "Rosa",
+         210
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa – vão 17 mm",
+       "min": 240,
+       "f": [
+        [
+         "Rosa claro",
+         210
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa – vão 17 mm",
+       "min": 240,
+       "f": [
+        [
+         "Rosa escuro",
+         210
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa – vão 17 mm",
+       "min": 240,
+       "f": [
+        [
+         "Roxo",
+         210
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa – vão 17 mm",
+       "min": 240,
+       "f": [
+        [
+         "Verde claro",
+         210
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa – vão 17 mm",
+       "min": 240,
+       "f": [
+        [
+         "Verde",
+         210
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa – vão 17 mm",
+       "min": 240,
+       "f": [
+        [
+         "Amarelo",
+         210
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa – vão 17 mm",
+       "min": 240,
+       "f": [
+        [
+         "Laranja",
+         210
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Wibble Laptop Stand – vão 15 mm",
+   "autor": "Abstractia Design (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Suporte vertical ondulado para notebook. Vão de 15 mm: escolha pela espessura do notebook (meça o Mac fechado).",
+   "foto": "wibble-laptop-stand.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa – vão 15 mm",
+       "min": 240,
+       "f": [
+        [
+         "Branco",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa – vão 15 mm",
+       "min": 240,
+       "f": [
+        [
+         "Azul",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa – vão 15 mm",
+       "min": 240,
+       "f": [
+        [
+         "Azul claro",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa – vão 15 mm",
+       "min": 240,
+       "f": [
+        [
+         "Azul escuro",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa – vão 15 mm",
+       "min": 240,
+       "f": [
+        [
+         "Rosa",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa – vão 15 mm",
+       "min": 240,
+       "f": [
+        [
+         "Rosa claro",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa – vão 15 mm",
+       "min": 240,
+       "f": [
+        [
+         "Rosa escuro",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa – vão 15 mm",
+       "min": 240,
+       "f": [
+        [
+         "Roxo",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa – vão 15 mm",
+       "min": 240,
+       "f": [
+        [
+         "Verde claro",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa – vão 15 mm",
+       "min": 240,
+       "f": [
+        [
+         "Verde",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa – vão 15 mm",
+       "min": 240,
+       "f": [
+        [
+         "Amarelo",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa – vão 15 mm",
+       "min": 240,
+       "f": [
+        [
+         "Laranja",
+         209
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Wibble Laptop Stand – vão 13 mm",
+   "autor": "Abstractia Design (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Suporte vertical ondulado para notebook. Vão de 13 mm: escolha pela espessura do notebook (meça o Mac fechado).",
+   "foto": "wibble-laptop-stand.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa – vão 13 mm",
+       "min": 240,
+       "f": [
+        [
+         "Branco",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa – vão 13 mm",
+       "min": 240,
+       "f": [
+        [
+         "Azul",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa – vão 13 mm",
+       "min": 240,
+       "f": [
+        [
+         "Azul claro",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa – vão 13 mm",
+       "min": 240,
+       "f": [
+        [
+         "Azul escuro",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa – vão 13 mm",
+       "min": 240,
+       "f": [
+        [
+         "Rosa",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa – vão 13 mm",
+       "min": 240,
+       "f": [
+        [
+         "Rosa claro",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa – vão 13 mm",
+       "min": 240,
+       "f": [
+        [
+         "Rosa escuro",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa – vão 13 mm",
+       "min": 240,
+       "f": [
+        [
+         "Roxo",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa – vão 13 mm",
+       "min": 240,
+       "f": [
+        [
+         "Verde claro",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa – vão 13 mm",
+       "min": 240,
+       "f": [
+        [
+         "Verde",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa – vão 13 mm",
+       "min": 240,
+       "f": [
+        [
+         "Amarelo",
+         209
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa – vão 13 mm",
+       "min": 240,
+       "f": [
+        [
+         "Laranja",
+         209
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Wibble Bandeja Organizadora",
+   "autor": "Abstractia Design (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Bandejinha ondulada para chaves, joias e miudezas.",
+   "foto": "wibble-tray.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 96,
+       "f": [
+        [
+         "Branco",
+         55
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 96,
+       "f": [
+        [
+         "Azul",
+         55
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 96,
+       "f": [
+        [
+         "Azul claro",
+         55
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 96,
+       "f": [
+        [
+         "Azul escuro",
+         55
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 96,
+       "f": [
+        [
+         "Rosa",
+         55
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 96,
+       "f": [
+        [
+         "Rosa claro",
+         55
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 96,
+       "f": [
+        [
+         "Rosa escuro",
+         55
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 96,
+       "f": [
+        [
+         "Roxo",
+         55
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 96,
+       "f": [
+        [
+         "Verde claro",
+         55
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 96,
+       "f": [
+        [
+         "Verde",
+         55
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 96,
+       "f": [
+        [
+         "Amarelo",
+         55
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 96,
+       "f": [
+        [
+         "Laranja",
+         55
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Porta-Canecas Flor",
+   "autor": "3DAny (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Árvore porta-canecas com base de flor e 6 galhos.",
+   "foto": "porta-canecas.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Base de flor",
+       "min": 432,
+       "f": [
+        [
+         "Rosa",
+         198
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Tronco",
+       "min": 120,
+       "f": [
+        [
+         "Rosa",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Galhos",
+       "min": 132,
+       "f": [
+        [
+         "Rosa",
+         58
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1 – Base de flor",
+       "min": 432,
+       "f": [
+        [
+         "Roxo",
+         198
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Tronco",
+       "min": 120,
+       "f": [
+        [
+         "Roxo",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Galhos",
+       "min": 132,
+       "f": [
+        [
+         "Roxo",
+         58
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1 – Base de flor",
+       "min": 432,
+       "f": [
+        [
+         "Verde",
+         198
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Tronco",
+       "min": 120,
+       "f": [
+        [
+         "Verde",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Galhos",
+       "min": 132,
+       "f": [
+        [
+         "Verde",
+         58
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Base verde, tronco rosa",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1 – Base de flor",
+       "min": 432,
+       "f": [
+        [
+         "Verde",
+         198
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Tronco",
+       "min": 120,
+       "f": [
+        [
+         "Rosa",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Galhos",
+       "min": 132,
+       "f": [
+        [
+         "Rosa",
+         58
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Base rosa, tronco verde",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Base de flor",
+       "min": 432,
+       "f": [
+        [
+         "Rosa",
+         198
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Tronco",
+       "min": 120,
+       "f": [
+        [
+         "Verde",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Galhos",
+       "min": 132,
+       "f": [
+        [
+         "Verde",
+         58
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Base roxo, tronco verde",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1 – Base de flor",
+       "min": 432,
+       "f": [
+        [
+         "Roxo",
+         198
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Tronco",
+       "min": 120,
+       "f": [
+        [
+         "Verde",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Galhos",
+       "min": 132,
+       "f": [
+        [
+         "Verde",
+         58
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Base rosa, tronco roxo",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Base de flor",
+       "min": 432,
+       "f": [
+        [
+         "Rosa",
+         198
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Tronco",
+       "min": 120,
+       "f": [
+        [
+         "Roxo",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Galhos",
+       "min": 132,
+       "f": [
+        [
+         "Roxo",
+         58
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Base rosa, tronco amarelo",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Base de flor",
+       "min": 432,
+       "f": [
+        [
+         "Rosa",
+         198
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Tronco",
+       "min": 120,
+       "f": [
+        [
+         "Amarelo",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Galhos",
+       "min": 132,
+       "f": [
+        [
+         "Amarelo",
+         58
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Porta-Joias Lata de Sardinha",
+   "autor": "kelleninprogress (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Porta-joias de viagem em forma de lata de sardinha, com tampa deslizante. Usa a tampa inteira (placa 1). Alternativa do modelo: tampa em 2 partes (lata 38 min/12 g + desenho 29 min/8 g).",
+   "foto": "sardinha-porta-joias.jpg",
+   "variacoes": [
+    {
+     "corNome": "Original (laranja, rosa e azul)",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa 1 – Tampa com desenho",
+       "min": 120,
+       "f": [
+        [
+         "Laranja",
+         12
+        ],
+        [
+         "Rosa claro",
+         11
+        ],
+        [
+         "Azul escuro",
+         3
+        ],
+        [
+         "Roxo",
+         3
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Base",
+       "min": 66,
+       "f": [
+        [
+         "Laranja",
+         2
+        ],
+        [
+         "Amarelo",
+         28
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Divisórias",
+       "min": 24,
+       "f": [
+        [
+         "Branco",
+         7
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Chaveiro Porta-Carmed Anéis",
+   "autor": "3D_eng (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Chaveiro de anéis para encaixar o hidratante Carmed. Precisa de 1 mosquetão.",
+   "foto": "chaveiro-carmed.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 25,
+       "f": [
+        [
+         "Branco",
+         5
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 25,
+       "f": [
+        [
+         "Azul",
+         5
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 25,
+       "f": [
+        [
+         "Azul claro",
+         5
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 25,
+       "f": [
+        [
+         "Azul escuro",
+         5
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 25,
+       "f": [
+        [
+         "Rosa",
+         5
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 25,
+       "f": [
+        [
+         "Rosa claro",
+         5
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 25,
+       "f": [
+        [
+         "Rosa escuro",
+         5
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 25,
+       "f": [
+        [
+         "Roxo",
+         5
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 25,
+       "f": [
+        [
+         "Verde claro",
+         5
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 25,
+       "f": [
+        [
+         "Verde",
+         5
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 25,
+       "f": [
+        [
+         "Amarelo",
+         5
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 25,
+       "f": [
+        [
+         "Laranja",
+         5
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Capa PS5 Slim",
+   "autor": "angelo.caccavo96 (MakerWorld)",
+   "colecao": "Games",
+   "descricao": "Painéis de troca para PlayStation 5 Slim (versão com leitor de disco).",
+   "foto": "capa-ps5-slim.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1 – Painel superior",
+       "min": 276,
+       "f": [
+        [
+         "Branco",
+         162
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Painel inferior",
+       "min": 198,
+       "f": [
+        [
+         "Branco",
+         135
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Painéis laterais",
+       "min": 258,
+       "f": [
+        [
+         "Branco",
+         170
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1 – Painel superior",
+       "min": 276,
+       "f": [
+        [
+         "Azul",
+         162
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Painel inferior",
+       "min": 198,
+       "f": [
+        [
+         "Azul",
+         135
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Painéis laterais",
+       "min": 258,
+       "f": [
+        [
+         "Azul",
+         170
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1 – Painel superior",
+       "min": 276,
+       "f": [
+        [
+         "Azul claro",
+         162
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Painel inferior",
+       "min": 198,
+       "f": [
+        [
+         "Azul claro",
+         135
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Painéis laterais",
+       "min": 258,
+       "f": [
+        [
+         "Azul claro",
+         170
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1 – Painel superior",
+       "min": 276,
+       "f": [
+        [
+         "Azul escuro",
+         162
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Painel inferior",
+       "min": 198,
+       "f": [
+        [
+         "Azul escuro",
+         135
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Painéis laterais",
+       "min": 258,
+       "f": [
+        [
+         "Azul escuro",
+         170
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Painel superior",
+       "min": 276,
+       "f": [
+        [
+         "Rosa",
+         162
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Painel inferior",
+       "min": 198,
+       "f": [
+        [
+         "Rosa",
+         135
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Painéis laterais",
+       "min": 258,
+       "f": [
+        [
+         "Rosa",
+         170
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1 – Painel superior",
+       "min": 276,
+       "f": [
+        [
+         "Rosa claro",
+         162
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Painel inferior",
+       "min": 198,
+       "f": [
+        [
+         "Rosa claro",
+         135
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Painéis laterais",
+       "min": 258,
+       "f": [
+        [
+         "Rosa claro",
+         170
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1 – Painel superior",
+       "min": 276,
+       "f": [
+        [
+         "Rosa escuro",
+         162
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Painel inferior",
+       "min": 198,
+       "f": [
+        [
+         "Rosa escuro",
+         135
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Painéis laterais",
+       "min": 258,
+       "f": [
+        [
+         "Rosa escuro",
+         170
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1 – Painel superior",
+       "min": 276,
+       "f": [
+        [
+         "Roxo",
+         162
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Painel inferior",
+       "min": 198,
+       "f": [
+        [
+         "Roxo",
+         135
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Painéis laterais",
+       "min": 258,
+       "f": [
+        [
+         "Roxo",
+         170
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1 – Painel superior",
+       "min": 276,
+       "f": [
+        [
+         "Verde claro",
+         162
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Painel inferior",
+       "min": 198,
+       "f": [
+        [
+         "Verde claro",
+         135
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Painéis laterais",
+       "min": 258,
+       "f": [
+        [
+         "Verde claro",
+         170
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1 – Painel superior",
+       "min": 276,
+       "f": [
+        [
+         "Verde",
+         162
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Painel inferior",
+       "min": 198,
+       "f": [
+        [
+         "Verde",
+         135
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Painéis laterais",
+       "min": 258,
+       "f": [
+        [
+         "Verde",
+         170
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1 – Painel superior",
+       "min": 276,
+       "f": [
+        [
+         "Amarelo",
+         162
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Painel inferior",
+       "min": 198,
+       "f": [
+        [
+         "Amarelo",
+         135
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Painéis laterais",
+       "min": 258,
+       "f": [
+        [
+         "Amarelo",
+         170
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa 1 – Painel superior",
+       "min": 276,
+       "f": [
+        [
+         "Laranja",
+         162
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Painel inferior",
+       "min": 198,
+       "f": [
+        [
+         "Laranja",
+         135
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Painéis laterais",
+       "min": 258,
+       "f": [
+        [
+         "Laranja",
+         170
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Funky Retro Scalloped Display Shelf",
+   "autor": "Merilno3D (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Prateleira de exposição com fundo e moldura ondulados e 2 prateleiras.",
+   "foto": "scalloped-shelf.jpg",
+   "variacoes": [
+    {
+     "corNome": "Roxo, verde e rosa claro",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1 – Fundo ondulado",
+       "min": 162,
+       "f": [
+        [
+         "Roxo",
+         142
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Moldura",
+       "min": 78,
+       "f": [
+        [
+         "Verde",
+         53
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Prateleiras",
+       "min": 114,
+       "f": [
+        [
+         "Rosa claro",
+         93
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo, amarelo e rosa claro",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1 – Fundo ondulado",
+       "min": 162,
+       "f": [
+        [
+         "Roxo",
+         142
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Moldura",
+       "min": 78,
+       "f": [
+        [
+         "Amarelo",
+         53
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Prateleiras",
+       "min": 114,
+       "f": [
+        [
+         "Rosa claro",
+         93
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa, branco e amarelo",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Fundo ondulado",
+       "min": 162,
+       "f": [
+        [
+         "Rosa",
+         142
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Moldura",
+       "min": 78,
+       "f": [
+        [
+         "Branco",
+         53
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Prateleiras",
+       "min": 114,
+       "f": [
+        [
+         "Amarelo",
+         93
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro, rosa e branco",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1 – Fundo ondulado",
+       "min": 162,
+       "f": [
+        [
+         "Azul claro",
+         142
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Moldura",
+       "min": 78,
+       "f": [
+        [
+         "Rosa",
+         53
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Prateleiras",
+       "min": 114,
+       "f": [
+        [
+         "Branco",
+         93
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde, rosa claro e amarelo",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1 – Fundo ondulado",
+       "min": 162,
+       "f": [
+        [
+         "Verde",
+         142
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Moldura",
+       "min": 78,
+       "f": [
+        [
+         "Rosa claro",
+         53
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Prateleiras",
+       "min": 114,
+       "f": [
+        [
+         "Amarelo",
+         93
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro, amarelo e rosa claro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1 – Fundo ondulado",
+       "min": 162,
+       "f": [
+        [
+         "Rosa escuro",
+         142
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Moldura",
+       "min": 78,
+       "f": [
+        [
+         "Amarelo",
+         53
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Prateleiras",
+       "min": 114,
+       "f": [
+        [
+         "Rosa claro",
+         93
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Balloon Dog Fazendo Xixi",
+   "autor": "IsMowMow (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Escultura pop art de cachorro de balão fazendo xixi (o xixi encaixa na pata).",
+   "foto": "balloon-dog.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1 – Cachorro de balão",
+       "min": 312,
+       "f": [
+        [
+         "Branco",
+         90
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Xixi e poça",
+       "min": 51,
+       "f": [
+        [
+         "Azul claro",
+         13
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1 – Cachorro de balão",
+       "min": 312,
+       "f": [
+        [
+         "Azul",
+         90
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Xixi e poça",
+       "min": 51,
+       "f": [
+        [
+         "Azul claro",
+         13
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1 – Cachorro de balão",
+       "min": 312,
+       "f": [
+        [
+         "Azul claro",
+         90
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Xixi e poça",
+       "min": 51,
+       "f": [
+        [
+         "Branco",
+         13
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1 – Cachorro de balão",
+       "min": 312,
+       "f": [
+        [
+         "Azul escuro",
+         90
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Xixi e poça",
+       "min": 51,
+       "f": [
+        [
+         "Azul claro",
+         13
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Cachorro de balão",
+       "min": 312,
+       "f": [
+        [
+         "Rosa",
+         90
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Xixi e poça",
+       "min": 51,
+       "f": [
+        [
+         "Azul claro",
+         13
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1 – Cachorro de balão",
+       "min": 312,
+       "f": [
+        [
+         "Rosa claro",
+         90
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Xixi e poça",
+       "min": 51,
+       "f": [
+        [
+         "Azul claro",
+         13
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1 – Cachorro de balão",
+       "min": 312,
+       "f": [
+        [
+         "Rosa escuro",
+         90
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Xixi e poça",
+       "min": 51,
+       "f": [
+        [
+         "Azul claro",
+         13
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1 – Cachorro de balão",
+       "min": 312,
+       "f": [
+        [
+         "Roxo",
+         90
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Xixi e poça",
+       "min": 51,
+       "f": [
+        [
+         "Azul claro",
+         13
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1 – Cachorro de balão",
+       "min": 312,
+       "f": [
+        [
+         "Verde claro",
+         90
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Xixi e poça",
+       "min": 51,
+       "f": [
+        [
+         "Azul claro",
+         13
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1 – Cachorro de balão",
+       "min": 312,
+       "f": [
+        [
+         "Verde",
+         90
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Xixi e poça",
+       "min": 51,
+       "f": [
+        [
+         "Azul claro",
+         13
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1 – Cachorro de balão",
+       "min": 312,
+       "f": [
+        [
+         "Amarelo",
+         90
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Xixi e poça",
+       "min": 51,
+       "f": [
+        [
+         "Azul claro",
+         13
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa 1 – Cachorro de balão",
+       "min": 312,
+       "f": [
+        [
+         "Laranja",
+         90
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Xixi e poça",
+       "min": 51,
+       "f": [
+        [
+         "Azul claro",
+         13
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Keycap Fuligem (Soot)",
+   "autor": "Stringhigh (MakerWorld)",
+   "colecao": "Games",
+   "descricao": "Tecla de teclado mecânico com bolinha de fuligem espiando. Os olhos são colados.",
+   "foto": "soot-keycap.jpg",
+   "variacoes": [
+    {
+     "corNome": "Preto e branco",
+     "corHex": "#222222",
+     "placas": [
+      {
+       "n": "Placa 1 – Keycap",
+       "min": 60,
+       "f": [
+        [
+         "Preto",
+         2
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Olhos",
+       "min": 21,
+       "f": [
+        [
+         "Branco",
+         1
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Kit 16 Keycaps Pastel",
+   "autor": "MakerWorld",
+   "colecao": "Games",
+   "descricao": "16 keycaps fofas (coração, flor, tulipa, cupcake, morango, laço, estrela, baleia, ursinho, ovo...) para teclado mecânico ou clicker fidget.",
+   "foto": "keycaps-pastel.jpg",
+   "variacoes": [
+    {
+     "corNome": "Pastel (original)",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1 – 16 keycaps",
+       "min": 516,
+       "f": [
+        [
+         "Branco",
+         22
+        ],
+        [
+         "Amarelo",
+         24
+        ],
+        [
+         "Verde",
+         19
+        ],
+        [
+         "Rosa claro",
+         14
+        ],
+        [
+         "Azul claro",
+         13
+        ],
+        [
+         "Roxo",
+         8
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Keycap My Melody",
+   "autor": "MonsieurPierre (MakerWorld)",
+   "colecao": "Games",
+   "descricao": "Keycap MX da My Melody com florzinha.",
+   "foto": "my-melody-keycap.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 276,
+       "f": [
+        [
+         "Branco",
+         27
+        ],
+        [
+         "Rosa",
+         25
+        ],
+        [
+         "Amarelo",
+         4
+        ],
+        [
+         "Preto",
+         3
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Mini TV Retrô",
+   "autor": "Kbfly (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Mini televisão anos 70 com antena.",
+   "foto": "mini-retro-tv.jpg",
+   "variacoes": [
+    {
+     "corNome": "Laranja (adaptada)",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 480,
+       "f": [
+        [
+         "Laranja",
+         61
+        ],
+        [
+         "Branco",
+         25
+        ],
+        [
+         "Preto",
+         19
+        ],
+        [
+         "Rosa escuro",
+         7
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Porta-Guardanapo Fita Cassete",
+   "autor": "Fixit7650 (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Porta-guardanapo em forma de fita cassete estilo TDK. A etiqueta da frente pode ser impressa em papel e colada.",
+   "foto": "porta-guardanapo-fita.jpg",
+   "variacoes": [
+    {
+     "corNome": "Preto",
+     "corHex": "#222222",
+     "placas": [
+      {
+       "n": "Placa 1 – Corpo",
+       "min": 126,
+       "f": [
+        [
+         "Preto",
+         54
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Rodinhas",
+       "min": 13,
+       "f": [
+        [
+         "Preto",
+         1
+        ],
+        [
+         "Branco",
+         2
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Espelho Ondulado – Interruptor duplo (2 retangulares)",
+   "autor": "KJ.GVSolX (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Espelho de interruptor/tomada com borda ondulada e listras pastel. Confira o padrão da sua tomada (modelo americano) antes de imprimir.",
+   "foto": "espelho-tomada.jpg",
+   "variacoes": [
+    {
+     "corNome": "Pastel (roxo, rosa e azul)",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 60,
+       "f": [
+        [
+         "Roxo",
+         4
+        ],
+        [
+         "Rosa claro",
+         25
+        ],
+        [
+         "Azul claro",
+         2
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Espelho Ondulado – Interruptor duplo liso",
+   "autor": "KJ.GVSolX (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Espelho de interruptor/tomada com borda ondulada e listras pastel. Confira o padrão da sua tomada (modelo americano) antes de imprimir.",
+   "foto": "espelho-tomada.jpg",
+   "variacoes": [
+    {
+     "corNome": "Pastel (roxo, rosa e azul)",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 44,
+       "f": [
+        [
+         "Rosa claro",
+         28
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Espelho Ondulado – Interruptor simples (furo pequeno)",
+   "autor": "KJ.GVSolX (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Espelho de interruptor/tomada com borda ondulada e listras pastel. Confira o padrão da sua tomada (modelo americano) antes de imprimir.",
+   "foto": "espelho-tomada.jpg",
+   "variacoes": [
+    {
+     "corNome": "Pastel (roxo, rosa e azul)",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 48,
+       "f": [
+        [
+         "Roxo",
+         3
+        ],
+        [
+         "Rosa claro",
+         2
+        ],
+        [
+         "Azul claro",
+         20
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Espelho Ondulado – Tomada dupla",
+   "autor": "KJ.GVSolX (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Espelho de interruptor/tomada com borda ondulada e listras pastel. Confira o padrão da sua tomada (modelo americano) antes de imprimir.",
+   "foto": "espelho-tomada.jpg",
+   "variacoes": [
+    {
+     "corNome": "Pastel (roxo, rosa e azul)",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Roxo",
+         4
+        ],
+        [
+         "Rosa claro",
+         33
+        ],
+        [
+         "Azul claro",
+         3
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Espelho Ondulado – Tomada tripla",
+   "autor": "KJ.GVSolX (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Espelho de interruptor/tomada com borda ondulada e listras pastel. Confira o padrão da sua tomada (modelo americano) antes de imprimir.",
+   "foto": "espelho-tomada.jpg",
+   "variacoes": [
+    {
+     "corNome": "Pastel (roxo, rosa e azul)",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 90,
+       "f": [
+        [
+         "Roxo",
+         5
+        ],
+        [
+         "Rosa claro",
+         44
+        ],
+        [
+         "Azul claro",
+         4
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Espelho Ondulado – Interruptor triplo",
+   "autor": "KJ.GVSolX (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Espelho de interruptor/tomada com borda ondulada e listras pastel. Confira o padrão da sua tomada (modelo americano) antes de imprimir.",
+   "foto": "espelho-tomada.jpg",
+   "variacoes": [
+    {
+     "corNome": "Pastel (roxo, rosa e azul)",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 72,
+       "f": [
+        [
+         "Roxo",
+         5
+        ],
+        [
+         "Rosa claro",
+         32
+        ],
+        [
+         "Azul claro",
+         3
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Espelho Ondulado – Interruptor simples (furo grande)",
+   "autor": "KJ.GVSolX (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Espelho de interruptor/tomada com borda ondulada e listras pastel. Confira o padrão da sua tomada (modelo americano) antes de imprimir.",
+   "foto": "espelho-tomada.jpg",
+   "variacoes": [
+    {
+     "corNome": "Pastel (roxo, rosa e azul)",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 43,
+       "f": [
+        [
+         "Roxo",
+         3
+        ],
+        [
+         "Rosa claro",
+         16
+        ],
+        [
+         "Azul claro",
+         2
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Espelho Ondulado Rosa – Lisa",
+   "autor": "Lauvi Design (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Espelho de interruptor com borda ondulada, padrão latino/brasileiro (4x2). Confira o encaixe antes de imprimir.",
+   "foto": "espelho-lauvi.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1 – Lisa",
+       "min": 47,
+       "f": [
+        [
+         "Rosa claro",
+         25
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Espelho Ondulado Rosa – Contorno",
+   "autor": "Lauvi Design (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Espelho de interruptor com borda ondulada, padrão latino/brasileiro (4x2). Confira o encaixe antes de imprimir.",
+   "foto": "espelho-lauvi.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa claro e rosa escuro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1 – Contorno",
+       "min": 66,
+       "f": [
+        [
+         "Rosa claro",
+         28
+        ],
+        [
+         "Rosa escuro",
+         3
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Espelho Ondulado Rosa – Xadrez",
+   "autor": "Lauvi Design (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Espelho de interruptor com borda ondulada, padrão latino/brasileiro (4x2). Confira o encaixe antes de imprimir.",
+   "foto": "espelho-lauvi.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa claro e rosa escuro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1 – Xadrez",
+       "min": 72,
+       "f": [
+        [
+         "Rosa claro",
+         24
+        ],
+        [
+         "Rosa escuro",
+         5
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Espelho Ondulado Rosa – Listrada",
+   "autor": "Lauvi Design (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Espelho de interruptor com borda ondulada, padrão latino/brasileiro (4x2). Confira o encaixe antes de imprimir.",
+   "foto": "espelho-lauvi.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa claro e rosa escuro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1 – Listrada",
+       "min": 60,
+       "f": [
+        [
+         "Rosa claro",
+         24
+        ],
+        [
+         "Rosa escuro",
+         5
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Porta-Cartão Fita Cassete Pop-up",
+   "autor": "Uncle DongJi With Little Junk (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Carteira/porta-cartão em forma de fita cassete, com cartões que saltam para cima.",
+   "foto": "porta-cartao-cassete.jpg",
+   "variacoes": [
+    {
+     "corNome": "Preto e verde",
+     "corHex": "#222222",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 144,
+       "f": [
+        [
+         "Preto",
+         53
+        ],
+        [
+         "Verde claro",
+         5
+        ],
+        [
+         "Branco",
+         3
+        ],
+        [
+         "Amarelo",
+         1
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa (como na foto)",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 144,
+       "f": [
+        [
+         "Rosa",
+         53
+        ],
+        [
+         "Laranja",
+         5
+        ],
+        [
+         "Branco",
+         3
+        ],
+        [
+         "Azul",
+         1
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 144,
+       "f": [
+        [
+         "Roxo",
+         53
+        ],
+        [
+         "Verde",
+         5
+        ],
+        [
+         "Branco",
+         3
+        ],
+        [
+         "Laranja",
+         1
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Porta-Copos Bolhas",
+   "autor": "Merilno3D (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Porta-copos/bandejinha com borda de bolinhas.",
+   "foto": "bubble-coaster.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Branco",
+         61
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Azul",
+         61
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Azul claro",
+         61
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Azul escuro",
+         61
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Rosa",
+         61
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Rosa claro",
+         61
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Rosa escuro",
+         61
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Roxo",
+         61
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Verde claro",
+         61
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Verde",
+         61
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Amarelo",
+         61
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 132,
+       "f": [
+        [
+         "Laranja",
+         61
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Chaveiro Peixe Abridor de Lata",
+   "autor": "lov3d (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Chaveiro de peixinho que abre lata sem estragar a unha (nail saver). Precisa de corrente/argola.",
+   "foto": "peixe-abridor.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa e amarelo",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 37,
+       "f": [
+        [
+         "Rosa escuro",
+         8
+        ],
+        [
+         "Amarelo",
+         2
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo e amarelo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 37,
+       "f": [
+        [
+         "Roxo",
+         8
+        ],
+        [
+         "Amarelo",
+         2
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul e branco",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 37,
+       "f": [
+        [
+         "Azul",
+         8
+        ],
+        [
+         "Branco",
+         2
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde e amarelo",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 37,
+       "f": [
+        [
+         "Verde",
+         8
+        ],
+        [
+         "Amarelo",
+         2
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro e rosa escuro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 37,
+       "f": [
+        [
+         "Rosa claro",
+         8
+        ],
+        [
+         "Rosa escuro",
+         2
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Telefone de Parede Retrô (base)",
+   "autor": "T3B DIY (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Base de telefone de parede antigo com teclado. Esta placa é só a base com as teclas; o fone é outra impressão.",
+   "foto": "telefone-parede.jpg",
+   "variacoes": [
+    {
+     "corNome": "Rosa com teclas amarelas",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Base e teclas",
+       "min": 252,
+       "f": [
+        [
+         "Rosa",
+         106
+        ],
+        [
+         "Amarelo",
+         12
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo com teclas rosa",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1 – Base e teclas",
+       "min": 252,
+       "f": [
+        [
+         "Amarelo",
+         106
+        ],
+        [
+         "Rosa",
+         12
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Happy Pill (quadro de parede)",
+   "autor": "K0nur's Things (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Cápsula gigante \"Happy 100mg\" para pendurar na parede.",
+   "foto": "happy-pill.jpg",
+   "variacoes": [
+    {
+     "corNome": "Amarelo e branco",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1 – Metade colorida",
+       "min": 378,
+       "f": [
+        [
+         "Amarelo",
+         203
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Metade branca com texto",
+       "min": 468,
+       "f": [
+        [
+         "Branco",
+         196
+        ],
+        [
+         "Preto",
+         12
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Luminária Fone de Ouvido",
+   "autor": "G3D_lab (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Luminária de mesa em forma de fone (AirPod). Precisa de kit de lâmpada/LED com cabo.",
+   "foto": "headphone-lamp.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco e preto",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1 – Cabeça",
+       "min": 228,
+       "f": [
+        [
+         "Branco",
+         102
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Haste",
+       "min": 84,
+       "f": [
+        [
+         "Branco",
+         29
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Base",
+       "min": 54,
+       "f": [
+        [
+         "Preto",
+         21
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Detalhes",
+       "min": 22,
+       "f": [
+        [
+         "Preto",
+         6
+        ]
+       ]
+      },
+      {
+       "n": "Placa 5 – Peças internas",
+       "min": 66,
+       "f": [
+        [
+         "Preto",
+         18
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Mini Macintosh Kira",
+   "autor": "Alish (MakerWorld)",
+   "colecao": "Games",
+   "descricao": "Gabinete de mini Macintosh retrô (projeto Kira AI Assistant). A tela/eletrônica é à parte; pode ser só decoração.",
+   "foto": "kira-mac.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco com logo colorido",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1 – Gabinete",
+       "min": 168,
+       "f": [
+        [
+         "Branco",
+         65
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Logo",
+       "min": 14,
+       "f": [
+        [
+         "Rosa escuro",
+         1
+        ],
+        [
+         "Azul",
+         1
+        ],
+        [
+         "Amarelo",
+         1
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Espelho iPod Classic",
+   "autor": "Cjb2793 (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Espelho de parede em forma de iPod Classic. Precisa de um espelho (acrílico ou vidro) cortado no tamanho da tela.",
+   "foto": "ipod-mirror.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1 – Moldura",
+       "min": 204,
+       "f": [
+        [
+         "Branco",
+         131
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo",
+       "min": 66,
+       "f": [
+        [
+         "Branco",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Botão do meio",
+       "min": 27,
+       "f": [
+        [
+         "Branco",
+         10
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Roda",
+       "min": 60,
+       "f": [
+        [
+         "Rosa",
+         34
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1 – Moldura",
+       "min": 204,
+       "f": [
+        [
+         "Azul",
+         131
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo",
+       "min": 66,
+       "f": [
+        [
+         "Azul",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Botão do meio",
+       "min": 27,
+       "f": [
+        [
+         "Azul",
+         10
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Roda",
+       "min": 60,
+       "f": [
+        [
+         "Branco",
+         34
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1 – Moldura",
+       "min": 204,
+       "f": [
+        [
+         "Azul claro",
+         131
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo",
+       "min": 66,
+       "f": [
+        [
+         "Azul claro",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Botão do meio",
+       "min": 27,
+       "f": [
+        [
+         "Azul claro",
+         10
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Roda",
+       "min": 60,
+       "f": [
+        [
+         "Branco",
+         34
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1 – Moldura",
+       "min": 204,
+       "f": [
+        [
+         "Azul escuro",
+         131
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo",
+       "min": 66,
+       "f": [
+        [
+         "Azul escuro",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Botão do meio",
+       "min": 27,
+       "f": [
+        [
+         "Azul escuro",
+         10
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Roda",
+       "min": 60,
+       "f": [
+        [
+         "Branco",
+         34
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1 – Moldura",
+       "min": 204,
+       "f": [
+        [
+         "Rosa",
+         131
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo",
+       "min": 66,
+       "f": [
+        [
+         "Rosa",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Botão do meio",
+       "min": 27,
+       "f": [
+        [
+         "Rosa",
+         10
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Roda",
+       "min": 60,
+       "f": [
+        [
+         "Branco",
+         34
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1 – Moldura",
+       "min": 204,
+       "f": [
+        [
+         "Rosa claro",
+         131
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo",
+       "min": 66,
+       "f": [
+        [
+         "Rosa claro",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Botão do meio",
+       "min": 27,
+       "f": [
+        [
+         "Rosa claro",
+         10
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Roda",
+       "min": 60,
+       "f": [
+        [
+         "Branco",
+         34
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1 – Moldura",
+       "min": 204,
+       "f": [
+        [
+         "Rosa escuro",
+         131
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo",
+       "min": 66,
+       "f": [
+        [
+         "Rosa escuro",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Botão do meio",
+       "min": 27,
+       "f": [
+        [
+         "Rosa escuro",
+         10
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Roda",
+       "min": 60,
+       "f": [
+        [
+         "Branco",
+         34
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1 – Moldura",
+       "min": 204,
+       "f": [
+        [
+         "Roxo",
+         131
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo",
+       "min": 66,
+       "f": [
+        [
+         "Roxo",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Botão do meio",
+       "min": 27,
+       "f": [
+        [
+         "Roxo",
+         10
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Roda",
+       "min": 60,
+       "f": [
+        [
+         "Branco",
+         34
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1 – Moldura",
+       "min": 204,
+       "f": [
+        [
+         "Verde claro",
+         131
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo",
+       "min": 66,
+       "f": [
+        [
+         "Verde claro",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Botão do meio",
+       "min": 27,
+       "f": [
+        [
+         "Verde claro",
+         10
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Roda",
+       "min": 60,
+       "f": [
+        [
+         "Branco",
+         34
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1 – Moldura",
+       "min": 204,
+       "f": [
+        [
+         "Verde",
+         131
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo",
+       "min": 66,
+       "f": [
+        [
+         "Verde",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Botão do meio",
+       "min": 27,
+       "f": [
+        [
+         "Verde",
+         10
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Roda",
+       "min": 60,
+       "f": [
+        [
+         "Branco",
+         34
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1 – Moldura",
+       "min": 204,
+       "f": [
+        [
+         "Amarelo",
+         131
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo",
+       "min": 66,
+       "f": [
+        [
+         "Amarelo",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Botão do meio",
+       "min": 27,
+       "f": [
+        [
+         "Amarelo",
+         10
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Roda",
+       "min": 60,
+       "f": [
+        [
+         "Branco",
+         34
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa 1 – Moldura",
+       "min": 204,
+       "f": [
+        [
+         "Laranja",
+         131
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Fundo",
+       "min": 66,
+       "f": [
+        [
+         "Laranja",
+         40
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Botão do meio",
+       "min": 27,
+       "f": [
+        [
+         "Laranja",
+         10
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Roda",
+       "min": 60,
+       "f": [
+        [
+         "Branco",
+         34
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Clippy (clipe do Office)",
+   "autor": "Kōbō (MakerWorld)",
+   "colecao": "Games",
+   "descricao": "O clipe assistente do Office em cima de um bloquinho. Peças separadas para colar. Alternativa do modelo: placa 5 imprime o clipe com olhos em multicolor (1h36, 24 g) no lugar das placas 3 e 4.",
+   "foto": "clippy.jpg",
+   "variacoes": [
+    {
+     "corNome": "Clássico",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1 – Base, sobrancelhas e íris",
+       "min": 60,
+       "f": [
+        [
+         "Preto",
+         24
+        ]
+       ]
+      },
+      {
+       "n": "Placa 2 – Papel de nota",
+       "min": 126,
+       "f": [
+        [
+         "Amarelo",
+         31
+        ]
+       ]
+      },
+      {
+       "n": "Placa 3 – Clipe",
+       "min": 29,
+       "f": [
+        [
+         "Branco",
+         7
+        ]
+       ]
+      },
+      {
+       "n": "Placa 4 – Branco dos olhos",
+       "min": 10,
+       "f": [
+        [
+         "Branco",
+         2
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Porta-Copos Botão Gigante",
+   "autor": "DM Lab (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Porta-copos em forma de botão de costura gigante.",
+   "foto": "big-buttons.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 55,
+       "f": [
+        [
+         "Branco",
+         42
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 55,
+       "f": [
+        [
+         "Azul",
+         42
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 55,
+       "f": [
+        [
+         "Azul claro",
+         42
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 55,
+       "f": [
+        [
+         "Azul escuro",
+         42
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 55,
+       "f": [
+        [
+         "Rosa",
+         42
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 55,
+       "f": [
+        [
+         "Rosa claro",
+         42
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 55,
+       "f": [
+        [
+         "Rosa escuro",
+         42
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 55,
+       "f": [
+        [
+         "Roxo",
+         42
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 55,
+       "f": [
+        [
+         "Verde claro",
+         42
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 55,
+       "f": [
+        [
+         "Verde",
+         42
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 55,
+       "f": [
+        [
+         "Amarelo",
+         42
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 55,
+       "f": [
+        [
+         "Laranja",
+         42
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Capinha de Isqueiro Bolhas",
+   "autor": "CajunMeemaw (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Capinha de bolhas para isqueiro BIC tamanho padrão.",
+   "foto": "bubble-bic-sleeve.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Branco",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Azul",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Azul claro",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Azul escuro",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Rosa",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Rosa claro",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Rosa escuro",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Roxo",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Verde claro",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Verde",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Amarelo",
+         21
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 66,
+       "f": [
+        [
+         "Laranja",
+         21
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Gancho S Canelado",
+   "autor": "Merilno3D (MakerWorld)",
+   "colecao": "Y2K",
+   "descricao": "Gancho em S canelado para pendurar bolsa, caneca, planta etc.",
+   "foto": "ribbed-hook.jpg",
+   "variacoes": [
+    {
+     "corNome": "Branco",
+     "corHex": "#f4f1ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 31,
+       "f": [
+        [
+         "Branco",
+         17
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul",
+     "corHex": "#8ec5ea",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 31,
+       "f": [
+        [
+         "Azul",
+         17
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul claro",
+     "corHex": "#bfe1ff",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 31,
+       "f": [
+        [
+         "Azul claro",
+         17
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Azul escuro",
+     "corHex": "#2f4f8f",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 31,
+       "f": [
+        [
+         "Azul escuro",
+         17
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa",
+     "corHex": "#f4a7c3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 31,
+       "f": [
+        [
+         "Rosa",
+         17
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa claro",
+     "corHex": "#ffd1e3",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 31,
+       "f": [
+        [
+         "Rosa claro",
+         17
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Rosa escuro",
+     "corHex": "#e0559a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 31,
+       "f": [
+        [
+         "Rosa escuro",
+         17
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Roxo",
+     "corHex": "#7b4fc9",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 31,
+       "f": [
+        [
+         "Roxo",
+         17
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde claro",
+     "corHex": "#b8e6b0",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 31,
+       "f": [
+        [
+         "Verde claro",
+         17
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Verde",
+     "corHex": "#8fcf5a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 31,
+       "f": [
+        [
+         "Verde",
+         17
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Amarelo",
+     "corHex": "#f7d84a",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 31,
+       "f": [
+        [
+         "Amarelo",
+         17
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "corNome": "Laranja",
+     "corHex": "#f59a3c",
+     "placas": [
+      {
+       "n": "Placa 1",
+       "min": 31,
+       "f": [
+        [
+         "Laranja",
+         17
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
