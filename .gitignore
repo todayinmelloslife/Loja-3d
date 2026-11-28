@@ -9,3 +9,4 @@ __pycache__/
 central-config.php
 central-uploads/
 catalogo/importar-central.json
+hostinger/catalogo/

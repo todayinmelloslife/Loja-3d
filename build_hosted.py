@@ -14,3 +14,9 @@ assert '/_blob/' not in js and '<script>' not in h
 open(os.path.join(dst,'app.html'),'w').write(h)
 open(os.path.join(dst,'app.js'),'w').write(js)
 print('ok',len(h),len(js))
+import shutil,glob
+cat=os.path.join(os.path.dirname(os.path.abspath(__file__)),'catalogo')
+if os.path.isdir(cat):
+    out=os.path.join(dst,'catalogo');shutil.rmtree(out,ignore_errors=True);os.makedirs(os.path.join(out,'fotos'))
+    shutil.copy(os.path.join(cat,'modelos.json'),out)
+    for f in glob.glob(os.path.join(cat,'fotos','*.jpg')):shutil.copy(f,os.path.join(out,'fotos'))
