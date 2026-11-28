@@ -130,6 +130,7 @@ function valida_doc(array $seg,array $d,?array $old,array $u): array {
   }
   if ($c==='chat') { $d['uid']=$u['id']; txt($d['t']??'',2000); if ($old&&($old['uid']??'')!==$u['id']&&!in_array('admin',$u['roles'],true)) erro('só quem escreveu pode mudar a mensagem',403); }
   if ($c==='audit') { $d['uid']=$u['id']; }
+  if ($c==='produtos'&&!empty($d['linkModelo'])&&(!is_string($d['linkModelo'])||mb_strlen($d['linkModelo'])>1000||!preg_match('#^(https|bambustudioopen|bambustudio|orcaslicer)://\S+$#i',$d['linkModelo']))) erro('link do modelo inválido');
   if ($c==='posts'&&!empty($d['link'])&&!preg_match('#^https://#i',(string)$d['link'])) erro('o link precisa começar com https://');
   foreach (['hex','corHex'] as $k) if (!empty($d[$k])&&!preg_match('/^#[0-9a-fA-F]{6}$/',(string)$d[$k])) erro('cor inválida');
   foreach (['fotos','anexos'] as $k) if (isset($d[$k])) { if (!is_array($d[$k])) erro('arquivos inválidos'); foreach ($d[$k] as $f) if (!is_string($f)||!preg_match('/^[a-z0-9]{24}\.(jpg|png|webp|gif|pdf)$/',$f)) erro('arquivo inválido'); }
